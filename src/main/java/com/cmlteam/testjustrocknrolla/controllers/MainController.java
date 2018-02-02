@@ -1,7 +1,7 @@
-package com.cmlteam.cmltemplate.controllers;
+package com.cmlteam.testjustrocknrolla.controllers;
 
-import com.cmlteam.cmltemplate.model.ServerStatus;
-import com.cmlteam.cmltemplate.services.SampleService;
+import com.cmlteam.testjustrocknrolla.model.ServerStatus;
+import com.cmlteam.testjustrocknrolla.services.SampleService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

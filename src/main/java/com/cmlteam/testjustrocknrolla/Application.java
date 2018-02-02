@@ -1,4 +1,4 @@
-package com.cmlteam.cmltemplate;
+package com.cmlteam.testjustrocknrolla;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.cmlteam.cmltemplate.services;
+package com.cmlteam.testjustrocknrolla.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
